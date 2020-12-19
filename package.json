@@ -1,0 +1,27 @@
+{
+  "name": "hugotails",
+  "version": "1.0.0",
+  "description": "- Text Tutorial: https://divrhino.com/articles/add-tailwindcss-to-hugo/ - Video Tutorial: https://www.youtube.com/watch?v=8Hr19zVHCbo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divrhino/hugotails.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/divrhino/hugotails/issues"
+  },
+  "homepage": "https://github.com/divrhino/hugotails#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.1.0",
+    "postcss": "^8.2.1",
+    "postcss-cli": "^8.3.1",
+    "postcss-import": "^14.0.0",
+    "tailwindcss": "^2.0.2"
+  }
+}
